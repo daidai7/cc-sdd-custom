@@ -58,10 +58,11 @@ git push
 ```
 cc-sdd-custom/
 ├── README.md
-├── apply.sh                # カスタマイズ適用スクリプト
-├── sync-from-project.sh    # プロジェクトから同期するスクリプト
-└── patches/
-    └── workflow.md         # steeringテンプレート
+├── claude-code-sync-guide.md # Claude Code チャット履歴同期ガイド
+├── apply.sh                  # カスタマイズ適用スクリプト
+├── sync-from-project.sh      # プロジェクトから同期するスクリプト
+└── patches/                
+    └── workflow.md           # steeringテンプレート
 ```
 
 ## ワークフロー図
